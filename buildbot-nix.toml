@@ -1,1 +1,2 @@
 attribute = "hydraJobs"
+eval_worker_count = 8
